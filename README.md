@@ -1,1 +1,3 @@
-# bomberman
+# Bomberman game
+
+![Bomberman](bomber.png)
